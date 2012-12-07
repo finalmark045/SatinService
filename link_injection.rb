@@ -5,8 +5,8 @@ class Metasploit3 < Msf::Auxiliary
 
   def initialize(info = {})
 		super(update_info(info,
-			'Name' => 'LOL2 URL Injection Attack',
-			'Description' => %q{LOL2 is a simple python server which will
+			'Name' => 'Satin 2.0 URL Injection Attack',
+			'Description' => %q{Satin 2.0 is a simple python server which will
 					download and open any URL it is sent. Give this
 					module a URL pointing to an executable and it will
 					be run on the target system.},
