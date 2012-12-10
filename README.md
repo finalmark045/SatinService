@@ -17,4 +17,11 @@ The module is stable, but now I need to make the executable. Wasn't sure if I wa
 to host it inside the metasploit module or depend on a seperate server to host the 
 file. Either way gets the job done, but if I don't put it into the metasploit code
 that will be a lot less work for me, and I can just use a simple python HTTP server
-whenever I actually want to sploit it.
+whenever I actually want to sploit it.]
+
+===========
+Other Sites
+===========
+
+http://code.google.com/p/satin-service-exploit-dev/
+http://pastebin.com/u/finalmark045
